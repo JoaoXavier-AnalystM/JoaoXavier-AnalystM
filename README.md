@@ -6,8 +6,6 @@
 
 ### About me
 
-About me
-
 - Bachelor of Computer Engineering 
 - Currently working with Zabbix monitoring tool in conjunction with Grafana plugin 
 
