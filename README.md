@@ -5,7 +5,6 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/joao-xavierti/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://twitter.com/ParazeraXavier"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
    <a href=""><img height="30" src="./img/discord.svg"></a>&nbsp;&nbsp;
 
 <div align="center">
