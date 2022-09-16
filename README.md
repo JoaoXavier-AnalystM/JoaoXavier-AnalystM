@@ -8,7 +8,7 @@
    <a href=""><img height="30" src="./img/discord.svg"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 João Xavier | 💻 Monitoring Analyst | 🛸 Brasil , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  João Xavier | 💻 Monitoring Analyst | 🛸 Brasil , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 #### Where to find me:
