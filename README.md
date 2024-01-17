@@ -56,7 +56,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="https://github.com/cncf/artwork/blob/main/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
       </a>
       <br>Prometheus
     </td> 
@@ -69,11 +69,6 @@
   </tr>
       <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="48" height="48" alt="Zabbix" />
-      </a>
-      <br>Raspberry Pi
-      <td align="center" width="96">
-      <a href="#macropower-tech" >
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Zabbix" />
       </a>
       <br>Azure
@@ -82,19 +77,6 @@
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="Zabbix" />
       </a>
       <br>AWS
-      <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.debian.org/logos/openlogo-nd.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
-    </td>  
   </tr>
 </table>
 
