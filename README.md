@@ -3,7 +3,7 @@
    <h1>Hi there, I'm <a href="https://hemant.codes">João </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  João Xavier | 💻 IT Monitoring | Observability  | 🛸 Brasil , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   Zabbix Specialist | LGTM | Prometheus | Docker | DevOps  | 🛸 Brasil , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 #### Where to find me:
@@ -13,72 +13,23 @@
   <a href="https://www.linkedin.com/in/joao-xavierti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="joaoxavier_mnt"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  
+##
+<!-- Icones de linguagem-->
+<div align="center">
+  
+  <img align="center" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" />
+  <img align="center" height="50" width="50" src = "https://www.svgrepo.com/show/448228/grafana.svg"/>
+  <img align="center" height="50" width="50" src ="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" />
+  <img align="center" height="50" width="50" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCia0zlX4dNee0SE1vPxq9NlIT3mFCjHq4w&s"/>
+  <img align="center" height="50" width="50" src ="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"/>
+  <img align="center" height="50" width="40" src ="https://www.svgrepo.com/show/452192/docker.svg"/> 
+  <img align="center" height="50" width="40" src ="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" /> 
+  <img align="center" height="60" width="50" src ="https://www.svgrepo.com/show/373429/ansible.svg"/>
+  <img align="center" height="50" width="40" src ="https://www.svgrepo.com/show/354447/terraform-icon.svg"/>
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-</div>  
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
-<table>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://img.icons8.com/color/344/docker.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>GitLab
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/main/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td> 
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" width="48" height="48" alt="Zabbix" />
-      </a>
-      <br>Zabbix
-      </td>
-  </tr>
-      <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Zabbix" />
-      </a>
-      <br>Azure
-      <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="Zabbix" />
-      </a>
-      <br>AWS
-  </tr>
-</table>
+ 
+</div>
 
  ##
  
