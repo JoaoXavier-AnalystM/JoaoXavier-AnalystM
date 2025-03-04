@@ -26,7 +26,7 @@
   <img align="center" height="50" width="40" src ="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" /> 
   <img align="center" height="60" width="50" src ="https://www.svgrepo.com/show/373429/ansible.svg"/>
   <img align="center" height="50" width="40" src ="https://www.svgrepo.com/show/354447/terraform-icon.svg"/>
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" height="50" width="50" src="https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_white.png?auto=format&fit=max&w=847&dpr=2)" />
 
  
 </div>
