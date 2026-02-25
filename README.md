@@ -17,7 +17,6 @@
 <!-- Icones de linguagem-->
 <div align="center">
   
-  <img align="center" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" />
   <img align="center" height="50" width="50" src = "https://www.svgrepo.com/show/448228/grafana.svg"/>
   <img align="center" height="50" width="50" src ="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" />
   <img align="center" height="50" width="50" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCia0zlX4dNee0SE1vPxq9NlIT3mFCjHq4w&s"/>
