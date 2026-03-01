@@ -1,34 +1,73 @@
+<h1 align="center">Hi 👋, I'm João Xavier</h1>
+<h3 align="center">
+Observability and Monitoring Engineer | Zabbix Specialist | Docker & Kubernetes | Cloud Native Monitoring | 🇧🇷 Brazil
+</h3>
 
-<div align="center">
-   <h1>João Xavier </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+---
 
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   Zabbix Specialist | LGTM | Prometheus | Docker | DevOps  | 🛸 Brasil , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
+## 🚀 About Me
 
-#### Where to find me:
+🎯 Monitoring & Observability Specialist  
+📊 Strong background with Zabbix, Prometheus & Grafana  
+🐳 Containerized environments using Docker & Kubernetes  
+⚙️ Infrastructure automation & monitoring architecture  
+🌎 Open to remote international opportunities  
 
- <div> 
-  <a href = "mailto:joaoxneto7050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-xavierti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href ="joaoxavier_mnt"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
- 
-##
-<!-- Icones de linguagem-->
-<div align="center">
-  
-  <img align="center" height="50" width="50" src = "https://www.svgrepo.com/show/448228/grafana.svg"/>
-  <img align="center" height="50" width="50" src ="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" />
-  <img align="center" height="50" width="50" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCia0zlX4dNee0SE1vPxq9NlIT3mFCjHq4w&s"/>
-  <img align="center" height="50" width="50" src ="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"/>
-  <img align="center" height="50" width="40" src ="https://www.svgrepo.com/show/452192/docker.svg"/> 
-  <img align="center" height="50" width="40" src ="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" /> 
-  <img align="center" height="60" width="50" src ="https://www.svgrepo.com/show/373429/ansible.svg"/>
-  <img align="center" height="50" width="40" src ="https://www.svgrepo.com/show/354447/terraform-icon.svg"/>
-  <img align="center" height="50" width="50" src="https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_white.png?auto=format&fit=max&w=847&dpr=2)" />
+I focus on building scalable, reliable and production-ready monitoring environments.
 
- 
-</div>
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img height="50" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg"/>
+  <img height="50" src="https://www.svgrepo.com/show/448228/grafana.svg"/>
+  <img height="50" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/prometheus/icon/color/prometheus-icon-color.svg"/>
+  <img height="50" src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg"/>
+  <img height="50" src="https://www.svgrepo.com/show/452192/docker.svg"/> 
+  <img height="50" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg"/> 
+  <img height="50" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.svg"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"/>
+  <img height="50" src="https://www.svgrepo.com/show/373429/ansible.svg"/>
+  <img height="50" src="https://www.svgrepo.com/show/354447/terraform-icon.svg"/>
+</p>
 
 
-   
+## 🔥 Featured Projects
+
+### 🚀 Kubernetes Observability Lab
+Cluster with Prometheus, Grafana, Alertmanager and Zabbix integration  
+Production-ready monitoring architecture simulation.
+
+### 📦 Docker Monitoring Stack
+Complete monitoring stack using:
+- Prometheus
+- Grafana
+- Alertmanager
+- Node Exporter
+
+### ⚙️ Zabbix Automation
+Zabbix provisioning and monitoring automation using API & templates.
+
+### ☁️ Infrastructure as Code
+Infrastructure provisioning experiments using Terraform.
+
+---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoXavier-AnalystM&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoXavier-AnalystM&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoXavier-AnalystM&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-xavierti)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoxneto7050@gmail.com)
+
+---
