@@ -7,13 +7,13 @@ Observability and Monitoring Engineer | Zabbix Specialist | Docker & Kubernetes 
 
 ## 🚀 About Me
 
-- 🎯 Especialista em Monitoramento e Observabilidade
-- 📊 Sólida experiência com Zabbix, Prometheus e Grafana
-- 🐳 Ambientes conteinerizados usando Docker e Kubernetes
-- ⚙️ Automação de infraestrutura e arquitetura de monitoramento
-- 🌎 Aberto a novas oportunidades **SRE / Platform Engineering / DevOps**
+🎯 Monitoring & Observability Specialist  
+📊 Strong background with Zabbix, Prometheus & Grafana  
+🐳 Containerized environments using Docker & Kubernetes  
+⚙️ Infrastructure automation & monitoring architecture  
+🌎 Open to opportunities **SRE / Platform Engineering / DevOps**
 
-Meu foco é construir ambientes de monitoramento escaláveis, confiáveis ​​e prontos para produção.
+I focus on building scalable, reliable and production-ready monitoring environments.
 
 ---
 
@@ -33,24 +33,25 @@ Meu foco é construir ambientes de monitoramento escaláveis, confiáveis ​​
   <img height="50" src="https://www.svgrepo.com/show/354447/terraform-icon.svg"/>
 </p>
 
-## 🔥 Projetos em Destaque
+
+## 🔥 Featured Projects
 
 ### 🚀 Kubernetes Observability Lab
-Cluster com integração de Prometheus, Grafana, Alertmanager e Zabbix
-Simulação de arquitetura de monitoramento pronta para produção.
+Cluster with Prometheus, Grafana, Alertmanager and Zabbix integration  
+Production-ready monitoring architecture simulation.
 
 ### 📦 Docker Monitoring Stack
-monitoramento completa usando:
+Complete monitoring stack using:
 - Prometheus
 - Grafana
 - Alertmanager
 - Node Exporter
 
-### ⚙️ Deploy Zabbix
-Automação de provisionamento e monitoramento do Zabbix usando Kubernetes.
+### ⚙️ Deploy Zabbix Stack
+Automating Zabbix provisioning and monitoring using Docker and Kubernetes.
 
-### ☁️ Infraestrutura como Código
-Experimentos de provisionamento de infraestrutura no Proxmox usando Terraform.
+### ☁️ Infrastructure as Code
+Experiments with infrastructure provisioning in Proxmox using Terraform.
 
 ---
 <p align="center">
