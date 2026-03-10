@@ -8,7 +8,7 @@ Observability and Monitoring Engineer | Zabbix Specialist | Docker & Kubernetes 
 ## 🚀 About Me
 
 🎯 Monitoring & Observability Specialist  
-📊 Strong background with Zabbix, Prometheus & Grafana  
+📊 Strong background with Zabbix, Grafana & Prometheus
 🐳 Containerized environments using Docker & Kubernetes  
 ⚙️ Infrastructure automation & monitoring architecture  
 🌎 Open to opportunities **SRE / Platform Engineering / DevOps**
