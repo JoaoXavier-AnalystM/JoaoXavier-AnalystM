@@ -87,17 +87,14 @@ Meu foco é construir e evoluir plataformas confiáveis, escaláveis e preparada
 <tr>
 <td width="50%" valign="top">
 
-### ☸️ <a href="https://github.com/JoaoXavier-AnalystM/kubernetes-observability-lab">Kubernetes Observability Lab</a>
-
-Ambiente completo de observabilidade em Kubernetes utilizando Prometheus, Grafana, Alertmanager e Zabbix, simulando uma arquitetura pronta para produção.
+### ☸️ <a href="https://github.com/JoaoXavier-AnalystM/kubernetes-observability-lab">Kubernetes Observability Lab</a>  
+Ambiente de observabilidade em Kubernetes com Prometheus, Grafana, Alertmanager e Zabbix, simulando arquitetura pronta para produção.
 
 </td>
-
 <td width="50%" valign="top">
 
-### 📚 <a href="https://github.com/JoaoXavier-AnalystM/PCA_Study">PCA Study</a>
-
-Repositório de estudos para a certificação Prometheus Certified Associate (PCA), com laboratórios práticos, PromQL e arquitetura Prometheus.
+### 📚 <a href="https://github.com/JoaoXavier-AnalystM/PCA_Study">PCA Study</a>  
+Estudos para certificação Prometheus Certified Associate (PCA), com laboratórios práticos, PromQL e arquitetura Prometheus.
 
 </td>
 </tr>
@@ -105,17 +102,14 @@ Repositório de estudos para a certificação Prometheus Certified Associate (PC
 <tr>
 <td width="50%" valign="top">
 
-### 📊 <a href="https://github.com/JoaoXavier-AnalystM/Projeto-StackProm">Stack de Monitoramento</a>
-
-Stack completa utilizando Docker Compose com Prometheus, Grafana, Alertmanager e Exporters.
+### 📊 <a href="https://github.com/JoaoXavier-AnalystM/Projeto-StackProm">Stack de Monitoramento</a>  
+Stack de monitoramento com Docker Compose, Prometheus, Grafana, Alertmanager e Exporters.
 
 </td>
-
 <td width="50%" valign="top">
 
-### ⚙️ <a href="https://github.com/JoaoXavier-AnalystM/DevopsProfessional-Linuxtips">DevOps Professional Labs</a>
-
-Laboratórios da Formação DevOps da Linuxtips envolvendo Docker, Kubernetes, Terraform, GitOps e automação.
+### ⚙️ <a href="https://github.com/JoaoXavier-AnalystM/DevopsProfessional-Linuxtips">DevOps Professional Labs</a>  
+Laboratórios DevOps envolvendo Docker, Kubernetes, Terraform, GitOps e automação.
 
 </td>
 </tr>
@@ -123,13 +117,16 @@ Laboratórios da Formação DevOps da Linuxtips envolvendo Docker, Kubernetes, T
 <tr>
 <td width="50%" valign="top">
 
-### 📖 <a href="https://github.com/JoaoXavier-AnalystM/DevOps-SRE-Study">DevOps & SRE Study</a>
+### 🛠️ <a href="https://github.com/JoaoXavier-AnalystM/Modulo-zbx-maintenance">Zabbix Maintenance Module</a>  
+Automação de processos de manutenção no Zabbix, controle de janelas e melhoria na governança de monitoramento.
 
+</td>
+<td width="50%" valign="top">
+
+### 📖 <a href="https://github.com/JoaoXavier-AnalystM/DevOps-SRE-Study">DevOps & SRE Study</a>  
 Documentação, estudos e laboratórios sobre DevOps, SRE, Linux, Cloud e Observabilidade.
 
 </td>
-
-<td width="50%"></td>
 </tr>
 </table>
 
