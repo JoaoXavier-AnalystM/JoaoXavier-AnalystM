@@ -7,11 +7,11 @@ Monitoramento | Observabilidade | Zabbix Certified Specialist | Prometheus Certi
 
 ## 🚀 Sobre Mim
 
-🎯 Profissional de Monitoramento e Observabilidade com mais de 7 anos de experiência em ambientes críticos.
-📊 Experiência com Zabbix, Prometheus, Grafana, Dynatrace e Datadog.
-☸️ Docker, Kubernetes, Cloud Native, AWS, Azure e automação com Terraform, Ansible e GitHub Actions.
-🚀 Foco em confiabilidade, observabilidade, automação e melhoria contínua de plataformas.
-🌎 Buscando oportunidades como **SRE**, **Engenheiro de Observabilidade**, **Platform Engineer** ou **DevOps Engineer**.
+- 🎯 Profissional de Monitoramento e Observabilidade com mais de 7 anos de experiência em ambientes críticos.
+- 📊 Experiência com Zabbix, Prometheus, Grafana, Dynatrace e Datadog.
+- ☸️ Docker, Kubernetes, Cloud Native, AWS, Azure e automação com Terraform, Ansible e GitHub Actions.
+- 🚀 Foco em confiabilidade, observabilidade, automação e melhoria contínua de plataformas.
+- 🌎 Buscando oportunidades como **SRE**, **Engenheiro de Observabilidade**, **Platform Engineer** ou **DevOps Engineer**.
 
 Meu foco é construir e evoluir plataformas confiáveis, escaláveis e preparadas para ambientes de produção, aplicando práticas de Observabilidade, SRE, DevOps, Cloud Native e automação para aumentar a disponibilidade dos serviços, reduzir incidentes e promover a melhoria contínua da infraestrutura e das operações.
 
