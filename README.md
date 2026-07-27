@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou João Xavier</h1>
+<h1 align="center">Olá 👋, sou João Xavier</h1>
 <h3 align="center">
 Monitoramento | Observabilidade | Zabbix Certified Specialist | Prometheus Certified  | Grafana | Docker | Kubernetes | Cloud Native
 </h3>
@@ -135,9 +135,9 @@ Documentação, estudos e laboratórios sobre DevOps, SRE, Linux, Cloud e Observ
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoXavier-AnalystM&theme=tokyonight" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoXavier-AnalystM&theme=tokyonight" />
 </p>
----
+
 
 <p align="center">
   <i>"Observabilidade não é apenas monitorar métricas, mas fornecer informações que permitam compreender, antecipar e resolver problemas com confiança."</i>
 </p>
----
+
